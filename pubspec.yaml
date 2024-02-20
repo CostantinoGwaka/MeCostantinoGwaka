@@ -3,7 +3,7 @@ description: Live portfolio developed in flutter 3.0.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
@@ -40,7 +40,6 @@ dependencies:
   # cache
   shared_preferences: ^2.0.6
 
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -51,7 +50,6 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter.
 flutter:
-
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
@@ -68,11 +66,11 @@ flutter:
     - family: Agustina
       fonts:
         - asset: fonts/agustina/agustina.otf
-    
+
     - family: Montserrat
       fonts:
         - asset: fonts/montserrat/montserrat.ttf
-    
+
     - family: Poppins
       fonts:
         - asset: fonts/poppins/Poppins-Regular.ttf

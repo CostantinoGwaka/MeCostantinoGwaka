@@ -1,4 +1,4 @@
-import 'package:folio/utils/utils.dart';
+import '../utils/utils.dart';
 
 class ServicesUtils {
   static const List<String> servicesIcons = [
